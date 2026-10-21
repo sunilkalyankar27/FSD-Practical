@@ -1,7 +1,7 @@
 # FSD-Practical
 # Full Stack Development - III
 
-**Student Name:** Sunil Kondiba kalyankar
+**Student Name:** Sunil Kondiba Kalyankar
 
 **Roll Number:** SM2209
 
